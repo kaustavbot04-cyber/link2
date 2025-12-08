@@ -1851,7 +1851,7 @@ async def usage_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     
     msg = (
         f"📊 <b>Your Daily Usage Stats</b>\n\n"
-        f"🔗 <b>Scrapes Used:</b> {used}/{DAILY_LIMIT}\n"
+        f"🔗 <b>Bypasses Used:</b> {used}/{DAILY_LIMIT}\n"
         f"✅ <b>Remaining:</b> {remaining}\n"
         f"🔎 <b>Total Searches:</b> {searches} (Unlimited)\n\n"
         f"<i>Resets every day at 00:00 server time.</i>"
