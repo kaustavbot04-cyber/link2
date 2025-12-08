@@ -1,6 +1,7 @@
-python-telegram-bot 
-requests 
-beautifulsoup4 
-lxml
+python-telegram-bot
+requests
 cloudscraper
-flask
+Flask
+beautifulsoup4
+lxml
+playwright
